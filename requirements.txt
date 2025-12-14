@@ -1,0 +1,8 @@
+streamlit
+pandas
+seaborn
+matplotlib
+openpyxl
+xlrd
+plotly.express
+random
